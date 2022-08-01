@@ -1,6 +1,6 @@
 # Hello future leaper !
 ---
-### FRONT END DEVELOPER TEST
+### FRONT END DEVELOPER TEST!
 ***
 We prepared a Simple react & webpack project for our recruitment process and added as much love as we do in our daily projects.
 
